@@ -7,7 +7,7 @@ Serial.begin(9600);
   WiFi.disconnect();
   delay(3000);
   Serial.println("=====Program start=====");
-  WiFi.begin("NASA","65536803");
+  WiFi.begin("your ssid","your password");
   while ((WiFi.status() == WL_CONNECTED)){
     Serial.println("...");
     delay(300);

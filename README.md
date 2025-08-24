@@ -133,7 +133,7 @@ Bu repository, ESP32 mikrodenetleyici ile geliştirilmiş çeşitli projeleri i�
 ## 🔧 Özelleştirme
 
 Her proje, kendi ihtiyaçlarınıza göre özelleştirilebilir:
-- WiFi bilgilerini güncelleyin
+- **WiFi bilgilerini güncelleyin**: Tüm projelerde "your ssid" ve "your password" olarak işaretlenen yerleri kendi WiFi bilgilerinizle değiştirin
 - GPIO pin numaralarını değiştirin
 - Sensör parametrelerini ayarlayın
 - Ek özellikler ekleyin
